@@ -1,0 +1,109 @@
+ Q2.)
+//Answer, 
+
+    var list1 = [1,2,3,4,5,6,7];
+      list1.insertAll(5,[3,5,6,7,9,10]);
+    print(list1);
+  
+  
+  
+   
+//Q5.)
+//Answer,
+  
+  var num = 7;
+  for(var i=1; i<=15; i++){
+     print (i*num);
+  }
+  
+  
+//Q6.)
+//Answer,
+  
+ var fruit = ["apple","banana","mango","orange","stawberry"];
+  for(var a in fruit){
+  print (a);  
+  }
+ 
+
+  
+ // Q7).
+ // Answer,
+  
+  var int = 5;
+  for(var a=1; a<=20; a++){
+    print(a*int);
+  }
+  
+  
+
+// Q9).
+// part b(operators).
+// Answer,
+  
+   var num1 = 20;
+   var num2 = 40;
+   var  output = num1 + num2;
+//                   20   +  40   =  60
+   print (output);
+  
+  
+  var num3 = 40;
+   var num4 = 20;
+   var  result = num3 - num4;
+//                  40   -  20    =    20
+  print (result);
+  
+  
+   var num5 = 40;
+   var num6 = 20;
+   var  outputt = num5 * num6;
+//                  20   *  40   =   800
+   print (outputt);
+  
+   var num7 = 20;
+   var num8 = 40;
+   var  outpuut = num7 / num8;
+//                   20   /  40 = 0.5
+   print (outpuut);
+  
+    var num9 = 20;
+    var num10 = 6;
+    var  outpput = num9 % num10;
+//                    20   %  6 = 2
+  print (outpput);
+  
+  
+//Q3).
+//Answer,  
+  
+    var i=[1,4,9,16,25,36,49,64,81,100];
+  print( i.elementAt(1));
+  print( i.elementAt(4));
+  print( i.elementAt(5));    
+  print( i.elementAt(7));
+  print( i.elementAt(9));
+    
+  
+//Q1).
+//Answer,  
+  
+  List<String> ballListt = ["Ball (), Ball (), Ball (), Ball (), Ball ()"];
+  print(ballListt);
+  
+    
+  
+
+  
+ 
+//Q10).
+//Answer,
+   
+ var list1a = ["a,e,i,o,u"];
+  print(list1a);
+  
+  
+  
+  
+  
+  
